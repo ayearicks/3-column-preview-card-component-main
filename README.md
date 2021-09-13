@@ -23,14 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<img src="images/mobile.png" width='300'> <img src="images/desktop.png" width='600'>
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/ayearicks/3-column-preview-card-component-main)
+- Live Site URL: [Deployment](http://yearicks.dev/3-column-preview-card-component-main/)
 
 
 
